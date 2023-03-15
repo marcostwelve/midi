@@ -16,7 +16,7 @@ Projeto desenvolvido no treinamento de lógica de JavaScript da Alura. <br/>
 </p>
 
 <br>
-  <p> Imagem demostração do site </p>
+  <p> Vídeo demostração do site </p>
   
   
 [Alura MIDI.webm](https://user-images.githubusercontent.com/94411600/225199463-480cd0b5-8565-4f22-b0ba-917753aaf741.webm)
