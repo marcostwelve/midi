@@ -38,7 +38,7 @@ Pode-se clicar com o botão do mouse, ou navegar com a tecla TAB e acionar o bot
 
 O Alura Midi, é um conjunto de notas de percursão. Ao acionar a tecla desejada, o som é disparado
 
-- [visite o projeto online](https://editor.p5js.org/marcosnyan12/full/aHqXAlJou)
+- [visite o projeto online](https://marcostwelve.github.io/midi/)
 
 
 ## :memo: Licença
